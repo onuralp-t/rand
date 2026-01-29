@@ -1,6 +1,6 @@
 # randwrite
-* Generate random numbers with a STB-style header-only library using `xoshiro256++` PRNG.
-* Write and store random numbers in a binary file using the CLI tool.
+* Use `xoshiro256++` PRNG to generate random numbers in C with a header-only library.
+* Write random bytes to a binary file using the CLI tool.
 
 ## Build
 * Build with command below or run `rwcli.bat`
