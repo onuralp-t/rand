@@ -1,5 +1,5 @@
 # randwrite
-* Generate random numbers with a STB-style header only library using `xoshiro256++` PRNG.
+* Generate random numbers with a STB-style header-only library using `xoshiro256++` PRNG.
 * Write and store random numbers in a binary file using the CLI tool.
 
 ## Build
