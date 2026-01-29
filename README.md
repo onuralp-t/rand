@@ -13,7 +13,7 @@ gcc rwcli.c -o rwcli.exe -O3 -s
 ```sh
 ./rwcli 10 -o myfileee
 ```
-### Header
+### Header-Only Library
 ```c
 #define RANDWRITE_IMPLEMENTATION
 #include "randwrite.h"
